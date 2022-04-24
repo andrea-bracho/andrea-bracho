@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrea-bracho
-- 👀 I’m interested in learning more and more on data analytics. Currently I am enrolled in a Data Analytics Boot camp and i have less than 1 month to complet it! 
-- 🌱 I’m currently learning Python, SQL, and GitHub
+- 👀 I’m interested in networking to land a job as a Data Analyst. I just completed a Data Analytics Certification with Career Foundry!
+- 🌱 There is always more learning to do every day, so eventhough I have experience using Python, SQL, Tableau, and GitHub is part of my daily routine to continue to practice more and keep learning. 
 - 💞️ I’m looking to collaborate with other people with more or less experience than me, in order to share and learn from each other. 
 - 📫 We can connect via email - andrea.bracho823@gmail.com
